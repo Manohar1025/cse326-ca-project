@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head> 
+<Meta http-equiv="Content-Type" content="text/html; charset=UTF-B />
+
+<title>Line25 InfoGraphice/title>
+
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+
+<script src="js/jquery.js" type="text/javascript"></script>
+
+<script src="js/cufon.js" type="text/javascript"></script>
+
+<script src="js/League Gothic 400. font.js" typew"text/javascript"></script>
+
+<script src="js/jquery.scrollTo.js" type="text/javascript"></script>
+
+<script src="js/scripts.js" type="text/javascript"></script>
+
+</head>
+
+<body> <div id="container"> <div id="intro">
+
+<h1>The stats behind <span>Line25</span></h1>
+
+<p>The LINE25 web design blog by Chris Spooner is home to a range of posts that ain to provide ideas and inspiration to veb creatives, At just over one year old it's already amassed a wealth of stats and figures. Sit back and take a look behind the scenes.</p>
+
+<p class="btn"><a href="#section>Continue</a></p>
+</div>
+
+<div id="section"> <h2 class="march2009 March 2009</h2>
+
+<h2 class launched-Line25 is launched</h2>
+
+<p>On its first day, Line25 brought in 1,750 visitors. One year later in March 2010, the average daily visitor rate has grown to 5,572.</p> <img src="images/graph.png" altw Graph displaying visitor count from March 2009 and March 2010" />
+
+<h2 class="average">On average each month, there are:</h2>
+
+<dl>
+
+<dt>9</dt>
+
+<dd>New posts</dd>
+
+<dt>299</dt>
+
+<dd>New comments</dd>
+
+<dt>4,378</dt> <dd>New subscribers</dd>
+
+<dt>39,205</dt>
+
+<dd>Visits</dd>
+
+<dt>82,072</dt> <dd>Pageviews</dd>
+
+</dl> </div>
+
+<div id="section2">
+
+<h2 class="total">In total <span>(as of May 2018)</spans, that's... </h2> that's...</h2> <p class="btn total"><a href="#stats"Continue</a></p
+
+<dl id="stats">
+
+<dt>126</dt> <dd>Posts</dd>
+
+<dt>5,518</dt> <dd>Comments</dd>
+
+<dt>39,338</dt>
+
+<dd>Subscribers</dd>
+
+<dt>1,575.081</dt> <dd>Visits</dd>
+
+<dt>2,779,397</dt> <dd>Pageviews</dd>
+
+</dl>
+
+<h2 class="categories">The 126 posts are split into 4 categories:</h2> <ing srinages/ple-chart.png" alt="Pie chart displaying posts per category" />
+
+<p class="btn continue"><a href="#userContinue</a></p>
+
+</div>
+
+<div id="section3"> <h2 class="user" id="user">The average Line25 user...</h2>
+<ul>
+<li class firefox Uses Firefox</li> <li class="pc Has a PC</li>
+
+<li class="time">Browses for 1:39</li>
+
+<li class="usa">Lives in the USA</li>
+
+<li class="awesone'>Is avesome</li> </ul>
+
+<img srcw"images/thankyou.png" alte Thank You, The End" />
+
+<h3>Again?</h3> <p class="btn"><a href="#intro">Back to top</a></p>
+
+</div>
+
+</div>
+
+</body> </html>
